@@ -1,0 +1,1 @@
+The Mathematica notebooks and tools used to perform computations of the stress-energy tensor on a product spacetime consisting of an FLRW metric times a flat compact dimension. See https://arxiv.org/abs/2603.12444v2 for reference. All the geometric coefficients can be found in the notebooks "Geometric Coefficient d3.nb" and "Geometric Coefficient d4.nb".
