@@ -1,1 +1,3 @@
 The Mathematica notebooks and tools used to perform computations of the stress-energy tensor on a product spacetime consisting of an FLRW metric times a flat compact dimension. See https://arxiv.org/abs/2603.12444 for reference. All the geometric coefficients for the $(1+d)$ dimensional computations can be found in the notebooks "Geometric Coefficient d3.nb" and "Geometric Coefficient d4.nb" in the respective folders. The equations of motion and lagrangian after dimensional reduction for the $d=4$ scenario can be found in "EOM.nb".
+
+Note: "RGTC.nb" contains instructions on how to use the "Riemannian Geometry & Tensor Calculus" package file "EDCRGTCcode.m".
